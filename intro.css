@@ -2,4 +2,21 @@
   margin: 0;
   padding: 0;
   color: tomato;
+  color: #123456;
+  color: #bebe;
+  color: #ece;
+  color: #333;
+  color: #eee;
+  color: #000;
+}
+
+.images {
+  width: 400px;
+
+  border-color: #ece;
+  border-width: 6px;
+  border-style: solid;
+  border-style: inset;
+
+  border: 7px inset #bebe ;
 }
